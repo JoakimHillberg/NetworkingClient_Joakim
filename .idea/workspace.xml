@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b95e493-1b82-4535-89ce-cff5fea8a76d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NetworkingClient.java" afterDir="false" />
+    <list default="true" id="8b95e493-1b82-4535-89ce-cff5fea8a76d" name="Changes" comment="Nätverkslabb, E-nivå kod för NetworkingClient.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NetworkingClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NetworkingClient.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,11 +46,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715945303577</updated>
-      <workItem from="1715945304594" duration="946000" />
+      <workItem from="1715945304594" duration="3156000" />
     </task>
+    <task id="LOCAL-00001" summary="Nätverkslabb, E-nivå kod för NetworkingClient.">
+      <option name="closed" value="true" />
+      <created>1715946331099</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715946331099</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Nätverkslabb, E-nivå kod för NetworkingClient." />
+    <option name="LAST_COMMIT_MESSAGE" value="Nätverkslabb, E-nivå kod för NetworkingClient." />
   </component>
 </project>
